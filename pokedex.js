@@ -43,4 +43,5 @@ function createPokemoncard(pokemons) {
   });
 }
 
+
 getPokemons();
